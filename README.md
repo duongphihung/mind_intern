@@ -1,5 +1,5 @@
 # Khởi đầu
-- Tìm hiểu react + type script
+- Tìm hiểu react + type script + scss
 - Làm một Todo-List đơn giản (Thêm, Sửa,Xóa, Tìm kiếm)
 - Tìm hiểu Redux Toolkit
 - Kết hợp redux vào todo list
