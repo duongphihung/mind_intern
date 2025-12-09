@@ -15,7 +15,7 @@
 -- Redux Toolkit: https://redux-toolkit.js.org/
 
 #format css 
-{
+
     position
     margin
     padding
@@ -32,5 +32,5 @@
     display
     justify-content
     align-items
-}
+
 
