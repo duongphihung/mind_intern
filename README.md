@@ -1,7 +1,7 @@
 # Khởi đầu
 - Tự tạo một repo của mình
 - Tìm hiểu react + type script + scss
-- Làm một Todo-List đơn giản (Thêm, Sửa,Xóa, Tìm kiếm)
+- Làm một Todo-List đơn giản (Thêm, Sửa, Xóa, Tìm kiếm)
 - Tìm hiểu Redux Toolkit
 - Kết hợp redux vào todo list
 # Mind Intern (Sau khi đã xong khởi đầu)
