@@ -14,3 +14,23 @@
 -- Sass: https://sass-lang.com/
 -- Redux Toolkit: https://redux-toolkit.js.org/
 
+#format css 
+{
+    position
+    margin
+    padding
+    width
+    height
+
+    border
+    border-radius
+    text
+
+    color
+    bgcolor
+
+    display
+    justify-content
+    align-items
+}
+
