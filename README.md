@@ -1,6 +1,6 @@
 # Khởi đầu
 - Tự tạo một repo của mình
-- Tìm hiểu react + type script + scss
+- Tìm hiểu react + type script
 - Làm một Todo-List đơn giản (Thêm, Sửa, Xóa, Tìm kiếm)
 - Tìm hiểu Redux Toolkit
 - Kết hợp redux vào todo list
