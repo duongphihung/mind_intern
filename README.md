@@ -4,7 +4,7 @@
 - Làm một Todo-List đơn giản (Thêm, Sửa, Xóa, Tìm kiếm)
 - Tìm hiểu Redux Toolkit
 - Kết hợp redux vào todo list
-- Tìm hiểu cách sử dụng: TypeScript + SCSS + Ant Design + ReactFlow + ChartJs + Redux Toolkit + axios
+- Tìm hiểu cách sử dụng: TypeScript + SCSS + Ant Design + ReactFlow + ChartJs + Redux Toolkit + React icon + axios
 - Tạo một trang login page sử dụng API để đăng nhập vào Todo List
 # Mind Intern (Sau khi đã xong khởi đầu)
 - Clone project của repo này
@@ -17,7 +17,7 @@
 -- ChartJs: https://react-chartjs-2.js.org/
 -- Sass: https://sass-lang.com/
 -- Redux Toolkit: https://redux-toolkit.js.org/
-
+-- React icons: https://react-icons.github.io/react-icons/
 #format css 
 
     position
